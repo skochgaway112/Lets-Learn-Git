@@ -7,5 +7,6 @@ int main(){
     diff=a-b;
     cout<<diff<<endl;
     cout<<"the final diff is as the answer given below";
+    cout<<"Hope you understand this"<<endl;
     return 0;
 }
